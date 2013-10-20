@@ -46,7 +46,8 @@ html, body {
 	display: inline-block;
 }
 #status input {
-	display: none;
+	color:gray;
+	/*display: none;*/
 }
 /*
 #content { float: left; width: 100%; padding: 6.4rem; padding-left: 30rem; }
