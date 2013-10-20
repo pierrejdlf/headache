@@ -41,8 +41,12 @@ html, body {
 	z-index: 100007;
 }
 #status div, #status input {
-	color:white;
+	font-size: 0.8em;
+	color:lightgray;
 	display: inline-block;
+}
+#status input {
+	display: none;
 }
 /*
 #content { float: left; width: 100%; padding: 6.4rem; padding-left: 30rem; }
